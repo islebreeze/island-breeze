@@ -1,2 +1,2 @@
 # island-breeze
-gohugo.io Restaurant Template
+gohugo.io Restaurant Template.
